@@ -29,9 +29,9 @@
 │                    DOUGLAS GALDINO // DEV                    │
 ├──────────────────────────────────────────────────────────────┤
 │ STATUS        : ONLINE                                       │
-│ ROLE          : Systems Development Student                  │
+│ ROLE          : Systems Development Student                 │
 │ FOCUS         : Web Development / Front-End / UI/UX          │
-│ SPECIALTY     : Interfaces & Digital Experiences             │
+│ SPECIALTY     : Interfaces & Digital Experiences            │
 │ ENVIRONMENT   : VS Code / Git / GitHub                       │
 │ CURRENT MODE  : LEARNING • BUILDING • EVOLVING               │
 │ OBJECTIVE     : CREATE • DEVELOP • IMPROVE                   │
@@ -49,20 +49,17 @@ Atualmente, estou evoluindo principalmente em **HTML, CSS, JavaScript, lógica d
 ```javascript
 const douglas = {
     role: "Systems Development Student",
-
     focus: [
         "Web Development",
         "Front-end",
         "UI/UX"
     ],
-
     learning: [
         "JavaScript",
         "Responsive Design",
         "Web Applications",
         "Git & GitHub"
     ],
-
     mindset: "Learn → Build → Improve"
 };
 ```
@@ -75,15 +72,41 @@ const douglas = {
 
 ### WEB DEVELOPMENT
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python" alt="Web Development"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://skillicons.dev/icons?i=html" width="55" alt="HTML5"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://skillicons.dev/icons?i=css" width="55" alt="CSS3"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=js" width="55" alt="JavaScript"/>
+</a>
+
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" width="55" alt="Python"/>
+</a>
 
 ### DEVELOPMENT
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/>
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" width="55" alt="Git"/>
+</a>
+
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub"/>
+</a>
+
+<a href="https://code.visualstudio.com/">
+<img src="https://skillicons.dev/icons?i=vscode" width="55" alt="VS Code"/>
+</a>
 
 ### DESIGN
 
-<img src="https://skillicons.dev/icons?i=figma" alt="Figma"/>
+<a href="https://www.figma.com/">
+<img src="https://skillicons.dev/icons?i=figma" width="55" alt="Figma"/>
+</a>
 
 </div>
 
@@ -93,7 +116,7 @@ const douglas = {
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/VS_Code-020617?style=for-the-badge&logo=visual-studio-code&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/VS%20Code-020617?style=for-the-badge&logo=visual-studio-code&logoColor=60A5FA"/>
 
 <img src="https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=F97316"/>
 
@@ -120,7 +143,7 @@ const douglas = {
 
 **Personal Web Portfolio**
 
-Portfólio desenvolvido para apresentar minha identidade como desenvolvedor, conhecimentos e projetos através de uma interface moderna, responsiva e focada em experiência do usuário.
+Projeto de portfólio desenvolvido para apresentar minha identidade como desenvolvedor, meus conhecimentos e projetos através de uma interface moderna, responsiva e focada em experiência do usuário.
 
 **Stack**
 
@@ -142,7 +165,7 @@ Portfólio desenvolvido para apresentar minha identidade como desenvolvedor, con
 
 ### ◈ NeuroHelp
 
-**Web Application**
+**Web Application for Accessibility**
 
 Projeto desenvolvido com foco em informação, acessibilidade e conexão entre famílias e profissionais, utilizando tecnologia para facilitar o acesso a conteúdos e recursos relacionados ao TEA.
 
@@ -192,17 +215,25 @@ $ keep_building();
 
 ---
 
-# `> GITHUB_STATS --monitor`
+## `> GITHUB_STATS --monitor`
 
 <div align="center">
 
-<img src="./profile/stats.svg" height="180" alt="GitHub Statistics"/>
+<a href="https://github.com/Douglas-GitProjects">
 
-<img src="./profile/top-langs.svg" height="180" alt="Top Languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Douglas-GitProjects&show_icons=true&hide_border=true&bg_color=020617&title_color=60A5FA&text_color=CBD5E1&icon_color=60A5FA&rank_icon=github&include_all_commits=true" alt="Douglas GitHub Stats"/>
+
+</a>
+
+<a href="https://github.com/Douglas-GitProjects">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-GitProjects&layout=compact&hide_border=true&bg_color=020617&title_color=60A5FA&text_color=CBD5E1&langs_count=8" alt="Top Languages"/>
+
+</a>
 
 <br><br>
 
-<img src="./profile/streak.svg" height="180" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Douglas-GitProjects&theme=dark&hide_border=true&background=020617&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=64748B" alt="GitHub Streak"/>
 
 </div>
 
@@ -212,7 +243,7 @@ $ keep_building();
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Douglas-GitProjects&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Douglas-GitProjects&bg_color=020617&color=CBD5E1&line=60A5FA&point=F8FAFC&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph"/>
 
 </div>
 
@@ -222,7 +253,7 @@ $ keep_building();
 
 <div align="center">
 
-<img src="./profile/trophy.svg" width="95%" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Douglas-GitProjects&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%" alt="GitHub Trophies"/>
 
 </div>
 
@@ -232,11 +263,7 @@ $ keep_building();
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg">
-  <img src="./profile/github-snake.svg" alt="GitHub Contribution Snake"/>
-</picture>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation"/>
 
 </div>
 
@@ -275,3 +302,10 @@ $ keep_building();
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:1E3A8A,50:0F172A,100:020617" width="100%"/>
 
 </div>
+
+<!--
+===============================================================
+                 DOUGLAS GALDINO // 2026
+            WEB DEVELOPMENT INTERFACE
+===============================================================
+-->
