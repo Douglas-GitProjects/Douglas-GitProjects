@@ -251,11 +251,7 @@ $ keep_building();
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg">
-  <img src="./profile/github-snake.svg" alt="GitHub Contribution Snake"/>
-</picture>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation"/>
 
 </div>
 
