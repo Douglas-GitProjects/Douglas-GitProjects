@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=700&color=60A5FA&center=true&vCenter=true&width=720&lines=%3E+Initializing+Douglas.exe...;%3E+Loading+developer+profile...;%3E+Web+Development+%7C+Front-End+%7C+UI%2FUX;%3E+Building+interfaces+that+connect+people+and+technology...;%3E+System+status%3A+ONLINE_" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=700&color=60A5FA&center=true&vCenter=true&width=720&lines=%3E+Initializing+Douglas.exe...;%3E+Loading+developer+profile...;%3E+Web+Development+%7C+Front-End+%7C+UI%2FUX;%3E+Exploring+Web+%26+Application+Development...;%3E+Building+interfaces+that+connect+people+and+technology...;%3E+System+status%3A+ONLINE_" alt="Typing Animation"/>
 
 <br><br>
 
@@ -31,8 +31,9 @@
 │ STATUS        : ONLINE                                       │
 │ ROLE          : Systems Development Student                 │
 │ FOCUS         : Web Development / Front-End / UI/UX          │
+│ SECONDARY     : Application Development                      │
 │ SPECIALTY     : Interfaces & Digital Experiences            │
-│ ENVIRONMENT   : VS Code / Git / GitHub                       │
+│ ENVIRONMENT   : VS Code / Git / GitHub / Android Studio      │
 │ CURRENT MODE  : LEARNING • BUILDING • EVOLVING               │
 │ OBJECTIVE     : CREATE • DEVELOP • IMPROVE                   │
 └──────────────────────────────────────────────────────────────┘
@@ -44,22 +45,37 @@ Olá! Eu sou **Douglas Galdino**, estudante de **Desenvolvimento de Sistemas** c
 
 Tenho interesse em transformar ideias em **interfaces modernas, funcionais e intuitivas**, unindo programação e design para criar experiências digitais melhores.
 
-Atualmente, estou evoluindo principalmente em **HTML, CSS, JavaScript, lógica de programação, Git/GitHub e desenvolvimento de aplicações**, enquanto construo projetos para colocar meus conhecimentos em prática.
+Atualmente, estou aprofundando meus conhecimentos em **HTML, CSS, JavaScript, lógica de programação, Git/GitHub e desenvolvimento de aplicações**, além de explorar o desenvolvimento mobile com **Kotlin e Android Studio**.
+
+Meu objetivo é continuar evoluindo como desenvolvedor, construindo projetos que combinem **código, design, usabilidade e tecnologia**.
 
 ```javascript
 const douglas = {
     role: "Systems Development Student",
+
     focus: [
         "Web Development",
         "Front-end",
-        "UI/UX"
+        "UI/UX",
+        "Application Development"
     ],
-    learning: [
+
+    technologies: [
+        "HTML",
+        "CSS",
         "JavaScript",
-        "Responsive Design",
-        "Web Applications",
-        "Git & GitHub"
+        "Python",
+        "Kotlin"
     ],
+
+    tools: [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Android Studio",
+        "Figma"
+    ],
+
     mindset: "Learn → Build → Improve"
 };
 ```
@@ -72,41 +88,19 @@ const douglas = {
 
 ### WEB DEVELOPMENT
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://skillicons.dev/icons?i=html" width="55" alt="HTML5"/>
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,python" alt="Web Development"/>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://skillicons.dev/icons?i=css" width="55" alt="CSS3"/>
-</a>
+### APPLICATION DEVELOPMENT
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=js" width="55" alt="JavaScript"/>
-</a>
-
-<a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python" width="55" alt="Python"/>
-</a>
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio" alt="Application Development"/>
 
 ### DEVELOPMENT
 
-<a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git" width="55" alt="Git"/>
-</a>
-
-<a href="https://github.com/">
-<img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub"/>
-</a>
-
-<a href="https://code.visualstudio.com/">
-<img src="https://skillicons.dev/icons?i=vscode" width="55" alt="VS Code"/>
-</a>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/>
 
 ### DESIGN
 
-<a href="https://www.figma.com/">
-<img src="https://skillicons.dev/icons?i=figma" width="55" alt="Figma"/>
-</a>
+<img src="https://skillicons.dev/icons?i=figma" alt="Figma"/>
 
 </div>
 
@@ -116,7 +110,9 @@ const douglas = {
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/VS%20Code-020617?style=for-the-badge&logo=visual-studio-code&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/VS_Code-020617?style=for-the-badge&logo=visual-studio-code&logoColor=60A5FA"/>
+
+<img src="https://img.shields.io/badge/Android_Studio-020617?style=for-the-badge&logo=android-studio&logoColor=3DDC84"/>
 
 <img src="https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=F97316"/>
 
@@ -143,7 +139,7 @@ const douglas = {
 
 **Personal Web Portfolio**
 
-Projeto de portfólio desenvolvido para apresentar minha identidade como desenvolvedor, meus conhecimentos e projetos através de uma interface moderna, responsiva e focada em experiência do usuário.
+Portfólio desenvolvido para apresentar minha identidade como desenvolvedor, conhecimentos e projetos através de uma interface moderna, responsiva e focada em experiência do usuário.
 
 **Stack**
 
@@ -165,7 +161,7 @@ Projeto de portfólio desenvolvido para apresentar minha identidade como desenvo
 
 ### ◈ NeuroHelp
 
-**Web Application for Accessibility**
+**Web Application**
 
 Projeto desenvolvido com foco em informação, acessibilidade e conexão entre famílias e profissionais, utilizando tecnologia para facilitar o acesso a conteúdos e recursos relacionados ao TEA.
 
@@ -201,13 +197,13 @@ $ ./current_objectives.sh
 [██████████████░░░░░░]  70%  UI/UX Design
 [████████████░░░░░░░░]  60%  Git & GitHub
 [██████████░░░░░░░░░░]  50%  Python
-[████████░░░░░░░░░░░░]  40%  Application Development
+[████████░░░░░░░░░░░░]  40%  Kotlin / Android Development
 
 > next_target:
 
 $ improve_javascript();
 $ build_more_web_projects();
-$ explore_app_development();
+$ explore_android_development();
 $ improve_ui_ux();
 $ learn_new_technologies();
 $ keep_building();
@@ -215,25 +211,17 @@ $ keep_building();
 
 ---
 
-## `> GITHUB_STATS --monitor`
+# `> GITHUB_STATS --monitor`
 
 <div align="center">
 
-<a href="https://github.com/Douglas-GitProjects">
+<img src="./profile/stats.svg" height="180" alt="GitHub Statistics"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Douglas-GitProjects&show_icons=true&hide_border=true&bg_color=020617&title_color=60A5FA&text_color=CBD5E1&icon_color=60A5FA&rank_icon=github&include_all_commits=true" alt="Douglas GitHub Stats"/>
-
-</a>
-
-<a href="https://github.com/Douglas-GitProjects">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-GitProjects&layout=compact&hide_border=true&bg_color=020617&title_color=60A5FA&text_color=CBD5E1&langs_count=8" alt="Top Languages"/>
-
-</a>
+<img src="./profile/top-langs.svg" height="180" alt="Top Languages"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=Douglas-GitProjects&theme=dark&hide_border=true&background=020617&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=64748B" alt="GitHub Streak"/>
+<img src="./profile/streak.svg" height="180" alt="GitHub Streak"/>
 
 </div>
 
@@ -243,7 +231,7 @@ $ keep_building();
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Douglas-GitProjects&bg_color=020617&color=CBD5E1&line=60A5FA&point=F8FAFC&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Douglas-GitProjects&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph"/>
 
 </div>
 
@@ -253,7 +241,7 @@ $ keep_building();
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Douglas-GitProjects&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%" alt="GitHub Trophies"/>
+<img src="./profile/trophy.svg" width="95%" alt="GitHub Trophies"/>
 
 </div>
 
@@ -263,7 +251,11 @@ $ keep_building();
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg">
+  <img src="./profile/github-snake.svg" alt="GitHub Contribution Snake"/>
+</picture>
 
 </div>
 
@@ -290,11 +282,11 @@ $ keep_building();
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║       DESIGN THE INTERFACE.                                  ║
-║       WRITE THE CODE.                                        ║
-║       BUILD THE EXPERIENCE.                                  ║
+║       DESIGN THE INTERFACE.                                 ║
+║       WRITE THE CODE.                                       ║
+║       BUILD THE EXPERIENCE.                                 ║
 ║                                                              ║
-║                  SYSTEM STATUS: ONLINE                       ║
+║                  SYSTEM STATUS: ONLINE                      ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -306,6 +298,6 @@ $ keep_building();
 <!--
 ===============================================================
                  DOUGLAS GALDINO // 2026
-            WEB DEVELOPMENT INTERFACE
+              WEB DEVELOPMENT INTERFACE
 ===============================================================
 -->
