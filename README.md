@@ -209,39 +209,12 @@ $ learn_new_technologies();
 $ keep_building();
 ```
 
----
-
-# `> GITHUB_STATS --monitor`
-
-<div align="center">
-
-<img src="./profile/stats.svg" height="180" alt="GitHub Statistics"/>
-
-<img src="./profile/top-langs.svg" height="180" alt="Top Languages"/>
-
-<br><br>
-
-<img src="./profile/streak.svg" height="180" alt="GitHub Streak"/>
-
-</div>
-
----
 
 ## `> ACTIVITY_GRAPH --visualize`
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Douglas-GitProjects&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph"/>
-
-</div>
-
----
-
-## `> TROPHIES --unlock`
-
-<div align="center">
-
-<img src="./profile/trophy.svg" width="95%" alt="GitHub Trophies"/>
 
 </div>
 
