@@ -29,10 +29,10 @@
 │                    DOUGLAS GALDINO // DEV                    │
 ├──────────────────────────────────────────────────────────────┤
 │ STATUS        : ONLINE                                       │
-│ ROLE          : Systems Development Student                 │
+│ ROLE          : Systems Development Student                  │
 │ FOCUS         : Web Development / Front-End / UI/UX          │
 │ SECONDARY     : Application Development                      │
-│ SPECIALTY     : Interfaces & Digital Experiences            │
+│ SPECIALTY     : Interfaces & Digital Experiences             │
 │ ENVIRONMENT   : VS Code / Git / GitHub / Android Studio      │
 │ CURRENT MODE  : LEARNING • BUILDING • EVOLVING               │
 │ OBJECTIVE     : CREATE • DEVELOP • IMPROVE                   │
@@ -278,11 +278,11 @@ $ keep_building();
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║       DESIGN THE INTERFACE.                                 ║
-║       WRITE THE CODE.                                       ║
-║       BUILD THE EXPERIENCE.                                 ║
+║       DESIGN THE INTERFACE.                                  ║
+║       WRITE THE CODE.                                        ║
+║       BUILD THE EXPERIENCE.                                  ║
 ║                                                              ║
-║                  SYSTEM STATUS: ONLINE                      ║
+║                  SYSTEM STATUS: ONLINE                       ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
