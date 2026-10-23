@@ -304,6 +304,14 @@ Python Journey
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
+## `> CONTRIBUTION_MATRIX --render`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation"/>
+
+</div>
+
 ---
 
 ## `> CONNECT --open_channels`
